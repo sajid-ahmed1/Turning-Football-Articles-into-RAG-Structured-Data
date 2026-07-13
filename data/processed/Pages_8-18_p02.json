@@ -1,0 +1,128 @@
+{
+  "page_number": 9,
+  "era_label": "EARLY YEARS",
+  "articles": [
+    {
+      "headline": "No goals in history-making Scotland-England encounter",
+      "body": "THE GAME WAS a long time in coming, Scotland versus England on 30 November 1872 at the West of Scotland Cricket Ground, Partick. For some time, the idea of a Scotland-England match had been brewing in men's minds. On 5 March 1870, England took on a Scottish representative side in the first of five matches played over two years at the Oval, in London. The result was a 1-1 draw, and in all England won three and drew two of these unofficial internationals with what was a \"London Scottish\" side.\n\nIt was the Scots who first suggested the match, seeking help in spreading the game north of the border, where no more than 10 football clubs had been established. The FA accepted the invitation, and on 24 October wrote to all the member clubs requesting assistance in paying the railway expenses of England's 11 chosen representatives and officials. The prime mover for the FA was C.W.Alcock, their first secretary. He was due to captain the team, but had to withdraw because of injury, and travelled as England's umpire.\n\nMore than 2,000 spectators turned out to watch the match in Partick, paying \u00a3109 at the gate, and they were not disappointed with the action despite the absence of goals. The Scots, six of them from Queen's Park, were smaller and lighter than their adversaries, giving away an estimated two stone per man, and it called for an outstanding performance from their two backs, J.J.Thomson and R.W.Ker, to save the day. For England, the magnificent dribbling of the captain, C.J.Ottaway, A.S.Kirke-Smith and J.Brockbank was greatly admired by the crowd, who kept the utmost order."
+    },
+    {
+      "headline": "Playing the game by electric light",
+      "body": "TWO TEAMS drawn from the Sheffield area and captained respectively by the brothers W.E. and J.C.Clegg, both England internationals, played an historic match at Bramall Lane, Sheffield, on 14 October 1878 under electric lights. There were four lamps standing on 30-foot wooden towers erected in each corner of the ground, and powered by portable generators. Nearly 20,000 people saw this novelty on a crisp moonlit night.\n\nOther clubs have repeated this experiment, including Birmingham and Accrington, although the first night match to be played in London, at the Oval on 4 November, was not such a success, owing to uneven illumination and high winds."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "A return England-Scotland match was played at the Oval on 8 March 1873 and England won 4-2. Alexander Bonsor (Old Etonians and The Wanderers) went into the record books as the scorer of England's first-ever international goal. Thereafter the match became an annual fixture, alternating between the two countries. The Scots pulled off a hat-trick of victories towards the end of the decade, culminating in their remarkable 7-2 triumph at Queen's Park in 1878.",
+        "In March 1873, the Scots instituted their own Cup competition and founded the Scottish Football Association. With a credit balance of only \u00a31.11s.4d in its first year, the Scottish FA had to seek donations from its member clubs to pay for the trophy and badges, which cost \u00a356.12s.11d.",
+        "The Royal Engineers, from Chatham, appeared in three of the first four FA Cup finals, losing twice before beating Old Etonians 2-0 in 1875. During that period, they lost only three out of 86 matches, mostly played against leading clubs, and boasted an extraordinary goalscoring record of 244 scored and a mere 21 conceded.",
+        "Wales entered the international scene for the first time, losing 4-0 to Scotland in Glasgow in 1876 and 2-1 to England at London's Kennington Oval in 1879."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "FA Cup Finals",
+          "rows": [
+            {
+              "year": "1872",
+              "detail": "Wanderers 1 Royal Engineers 0"
+            },
+            {
+              "year": "1873",
+              "detail": "Wanderers 2 Oxford University 0"
+            },
+            {
+              "year": "1874",
+              "detail": "Oxford Uty. 2 Royal Engineers 0"
+            },
+            {
+              "year": "1875",
+              "detail": "Royal Eng. 1 Old Etonians 1"
+            },
+            {
+              "year": "Replay",
+              "detail": "Royal Eng. 2 Old Etonians 0"
+            },
+            {
+              "year": "1876",
+              "detail": "Wanderers 1 Old Etonians 1"
+            },
+            {
+              "year": "Replay",
+              "detail": "Wanderers 3 Old Etonians 0"
+            },
+            {
+              "year": "1877",
+              "detail": "Wanderers 2 Oxford University 1 (after extra time)"
+            },
+            {
+              "year": "1878",
+              "detail": "Wanderers 3 Royal Engineers 1"
+            },
+            {
+              "year": "1879",
+              "detail": "Old Ets. 1 Clapham Rovers 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Finals",
+          "rows": [
+            {
+              "year": "1874",
+              "detail": "Queen's Pk. 2 Clydesdale 0"
+            },
+            {
+              "year": "1875",
+              "detail": "Queen's Pk. 3 Renton 0"
+            },
+            {
+              "year": "1876",
+              "detail": "Queen's Pk. 1 Third Lanark 1"
+            },
+            {
+              "year": "Replay",
+              "detail": "Queen's Pk. 2 Third Lanark 0"
+            },
+            {
+              "year": "1877",
+              "detail": "Vale of Leven 0 Rangers 0"
+            },
+            {
+              "year": "Replay",
+              "detail": "Vale of Leven 1 Rangers 1"
+            },
+            {
+              "year": "Replay",
+              "detail": "Vale of Leven 3 Rangers 2"
+            },
+            {
+              "year": "1878",
+              "detail": "Vale of Leven 1 Third Lanark 0"
+            },
+            {
+              "year": "1879",
+              "detail": "Vale of Leven 1 Rangers 1 (Vale of Leven won replay by default)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Scotland 0 England 0 \u2014 a selection of sketches from the match.",
+      "near_headline": "No goals in history-making Scotland-England encounter"
+    },
+    {
+      "caption": "Football by floodlight \u2014 an impression of the Sheffield scene.",
+      "near_headline": "Playing the game by electric light"
+    }
+  ]
+}

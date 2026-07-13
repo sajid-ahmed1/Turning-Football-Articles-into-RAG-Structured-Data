@@ -1,0 +1,114 @@
+{
+  "page_number": 28,
+  "era_label": "1909-10",
+  "articles": [
+    {
+      "headline": "'Dirty' jibes as Newcastle break their Cup jinx",
+      "body": "NEWCASTLE FINALLY buried their Cup jinx, beating Second Division Barnsley 2-0 in the replayed final at Goodison Park. But the manner of their victory left much to be desired, and there were unprecedented cries of \"Dirty Newcastle\" heard around the ground before the end of the match.\n\nIt seemed that certain Newcastle players came out on to the pitch determined to win at all costs. Early on, Alex Higgins floored the Barnsley keeper Mearns, who, when he recovered, had to be restrained by the referee and a team-mate as he chased after the culprit. Barnsley right-back Downs, limping from a foul in the first half, was laid out after the interval by a kick in the stomach and had to be carried off for treatment. The punishment was a mere free-kick, but even his Newcastle team-mates showed their disapproval with the offender.\n\nThere is no denying that Newcastle had the better of the play, with their captain and right-half Colin Veitch outstanding in a goalless first half. They adapted better to the muddy, churned-up pitch than their lighter opponents, and went one up through centre-forward Albert Shepherd, who ploughed through the middle to finish off a move started by Veitch seven minutes after the interval. Barnsley missed a glorious chance to equalize and then gave away a penalty for a trip on Higgins. It was Shepherd's privilege to score from the first penalty ever conceded in an FA Cup final.\n\nSo Newcastle \u2014 albeit having sullied their hitherto fine reputation for fair play \u2014 have finally added the Cup to their three League titles."
+    },
+    {
+      "headline": "Promotion scramble goes Oldham's way",
+      "body": "THE LAST DAY of the season began with Manchester City on top of Division Two with 54 points and assured of promotion barring a couple of adverse 9-0 results. Below them, however, there were three clubs in contention to join them, and anything could happen.\n\nHull City, with 53 points, needed a draw to go up, but they were due to meet Oldham Athletic, two points behind them and with a superior goal average. Derby, with the worst goal average, were on 52 points, and needed to win at West Bromwich if Hull opened the door for them by slipping up at Oldham. Well, Hull did slip up at Oldham. They lost 3-0. But Derby failed to take advantage, being held to a goalless draw.\n\nSo all three finish up on 53 points, a point behind the new Division Two champions Manchester City, who lost 3-2 at Wolves. And it is Oldham, with their superior goal average, who deservedly win promotion, too. They deserve it because, having accounted for Derby 4-0 in mid-week, they have beaten the two other contenders comprehensively inside five days and so proved their superiority."
+    },
+    {
+      "headline": "A new name on the Scottish Cup",
+      "body": "DUNDEE HAVE WON the Scottish Cup for the first time, beating Clyde 2-1 at Ibrox Park in the second replay of the final.\n\nWhat a remarkable Cup campaign Dundee have fought. After two goalless draws in their semi-final against Hibs, they won the second replay 1-0 to reach their first final. And they looked dead and buried 11 days ago against Clyde, when they were 2-0 down with only seven minutes to go. But goals by John Hunter and Johnny Langland earned them a replay, which ended in another goalless draw."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "Vivian Woodward became the first player to score double hat-tricks in two games, when he hit six goals for England in the amateur international against Holland at Stamford Bridge on 11 December. The famous Tottenham Hotspur centre-forward and Olympic gold-medallist had scored a phenomonal eight times against France three years earlier, also in an amateur international.",
+        "Aston Villa won their sixth League title, their first for 10 years, finishing with a record-equalling 53 points, five points ahead of runners-up Liverpool.",
+        "Ireland drew with England and then beat Scotland, but, with the Championship at their mercy for the first time, they went down 4-1 to Wales, giving Scotland their first outright win for eight years."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Aston Villa"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: John Parkinson (Liverpool) 29"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Manchester City"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Newcastle United 1 Barnsley 1"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Newcastle United 2 Barnsley 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Leith Athletic"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Dundee 2 Clyde 2"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Dundee 0 Clyde 0"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Dundee 2 Clyde 1"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Scotland, 4 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Albert Shepherd, scorer of both Newcastle goals",
+      "near_headline": "'Dirty' jibes as Newcastle break their Cup jinx"
+    },
+    {
+      "caption": "Vivian Woodward - goalscorer supreme.",
+      "near_headline": null
+    }
+  ]
+}

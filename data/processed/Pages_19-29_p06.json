@@ -1,0 +1,103 @@
+{
+  "page_number": 24,
+  "era_label": "1907-08",
+  "articles": [
+    {
+      "headline": "Newcastle's Cup 'jinx' strikes again",
+      "body": "THERE MUST BE a jinx on Newcastle in the FA Cup, beaten in the 1908 final for the third time in four years. It was almost gift-wrapped for them \u2014 four home draws and then a semi-final against Second Division Fulham, which they won 6\u20130. But they lost to Wolverhampton Wanderers, who finished only ninth in Division Two, in the final.\n\nThe Newcastle side was packed with internationals, from England, Scotland and Ireland. Wolves, on the other hand, were a team made up largely of unknowns. But somehow Wolves were able to impose their style of play \u2014 based on speed and strength \u2014 on their more illustrious opponents. Yet there was never any suggestion of \"strong-arm\" tactics. It might have been a different story had Newcastle taken their early chances. But Wolves delivered a double blow just before the interval, and never looked like losing after that. The first goal came from amateur international the Rev. Kenneth Hunt on 40 minutes, followed three minutes later by one from centre-forward George Hedley, twice a Cup-winner with Sheffield United and who played once for England in 1901.\n\nNewcastle could not get their famous short-passing game going, although Scottish cap Jim Howie gave them a glimmer of hope when he scored with 17 minutes left. But Billy Harrison settled it for Wolves 12 minutes later, and six of the Newcastle side sadly went to collect their third runners-up medal. It must seem as though they will never win the Cup."
+    },
+    {
+      "headline": "Who can stop United now?",
+      "body": "MANCHESTER UNITED, in only their second season back in the top flight, have taken Division One by storm. Their extraordinary 6\u20131 win over champions Newcastle at St James's Park is their seventh in the eight games they have played, and they have already built up a commanding lead.\n\nCredit for the 27 goals they have scored so far must go not only to the forwards, fired by wingmen Billy Meredith and George Wall, but also to the masterly half-back line of Dick Duckworth, Charlie Roberts and Alec Bell. Roberts, the captain, has been the inspiration of the side. Will he lead them to the title? It's early days yet, but it's difficult to see who will stop them."
+    },
+    {
+      "headline": "Another double Scotch!",
+      "body": "CELTIC, who brought off the first ever Scottish League and Cup \"double\" last year, have done it again. They clinched it at Ibrox Park, too, beating Rangers 1\u20130 to confirm the mastery they have exerted over their Glasgow rivals and, indeed, over the rest of Scotland. They still have two games to play, but no other club can catch them now.\n\nPity poor Rangers, beaten twice in the League by Celtic as well as in the second round of the Cup and in the final of the Glasgow Cup. Celtic, who also beat Queen's Park 3\u20130 in the final of the Charity Cup, won every tournament they entered.\n\nTheir only defeats were at Aberdeen and Dundee in the League. In last week's Cup final, they romped to a 5\u20131 victory over an overawed St Mirren, who offered little resistance. Such is Celtic's form and consistency that it is difficult to see anyone mounting a challenge to their supremacy.\n\nIn the past five seasons they have won the Championship four times and the Scottish Cup three times."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The British attendance record, 110,000 for the 1901 Cup final, was beaten when between 120,000 and 130,000 crammed into Hampden Park on 4 April to see the Scotland-England international. The result was a 1\u20131 draw.",
+        "Manchester United continued to dominate Division One, running up 10 consecutive wins, making it 13 in the first 14 games, in which they scored 48 goals. They faltered in the second half of the season, but such was their lead that they won the title by nine points.",
+        "All-conquering Celtic were outdone in just one department \u2014 goalscoring. Their 86 League goals were bettered by one club, Falkirk, whose 103 is the highest ever total in the Scottish League, and the first ever hundred.",
+        "England played their first full international on foreign soil on 6 June 1908, beating Austria 6\u20131 in Vienna. Within a week, they repeated the dose \u2014 11\u20131 this time \u2014 and beat Hungary 7\u20130 and Bohemia 4\u20130."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Manchester United"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: Enoch West (Nottm Forest) 27"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Bradford City"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Wolves 3  Newcastle United 1"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Raith Rovers"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Celtic 5  St Mirren 1"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "England, Scotland, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Wolves, shock Cup-winners when beating Newcastle at Crystal Palace.",
+      "near_headline": "Newcastle's Cup 'jinx' strikes again"
+    },
+    {
+      "caption": "United captain Charlie Roberts.",
+      "near_headline": "Who can stop United now?"
+    }
+  ]
+}

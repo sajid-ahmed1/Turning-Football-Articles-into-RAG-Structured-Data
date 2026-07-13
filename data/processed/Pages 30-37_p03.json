@@ -1,0 +1,105 @@
+{
+  "page_number": 32,
+  "era_label": "1913-14",
+  "articles": [
+    {
+      "headline": "A great day for the Irish",
+      "body": "IRELAND have won the International Championship outright for the first time in their history. A draw with Scotland in Belfast was enough to secure them the title with five points. When before has the Championship been decided by mid-March?\n\nBut you have to go back a couple of months, to Wrexham in January, for the start of this epic story. Before a goal was scored, Ireland lost Everton's Harris with a torn ligament, but they took charge of the game and beat Wales 2-1.\n\nIn February, Ireland confounded the critics again and won for the first time on English soil, 3-0 at Middlesbrough. They outplayed England, and a magnificent goal from Gillespie, sandwiched between two from Lacey, did not exaggerate their superiority.\n\nThe stage was set for the showdown with Scotland on 14 March. A record Irish crowd of 26,000 turned out in appalling weather to watch their heroes. Yet again the Irish side, without the forceful Gillespie, were soon affected by injury, and once more they showed the greatest fighting spirit in the face of desperate odds. First, centre-half O'Connell had to leave the field with an arm injury. Then right-back McConnell was carried off. Worse was to follow. Goalkeeper McKee, hurt in a collision, carried on until just after the interval, when he could no longer continue. So into goal went the injured McConnell!\n\nWith O'Connell back in the fray, the nine-and-a-half Irish warriors held out against the rampaging Scots until 20 minutes from time, when makeshift keeper McConnell inadvisedly left his charge and Donnachie found the unguarded net. That should have been the end, but you cannot write off these remarkable Irishmen. Centre-forward Young grabbed an equalizer eight minutes from time and, with the crowd swarming on the touchlines, they held out for the draw that gave them a richly-deserved Championship."
+    },
+    {
+      "headline": "King at Palace for Cup final",
+      "body": "KING GEORGE V became the first reigning monarch to see the Cup final, when he presented the trophy at the Crystal Palace to the winning captain, Burnley's centre-half Tommy Boyle. It was a great occasion for football, if not a great match. For the fourth consecutive season, the result was 1-0, although the last two finals have not needed a replay.\n\nNeither Burnley nor Liverpool had enjoyed a particularly distinguished season in the League, and the first half bore witness to their lowly positions in the table. The goal, a fierce shot by England international centre-forward Freeman after 58 minutes, changed the mood of the game, however, and the King, along with the 72,000 spectators at this last final at the Crystal Palace, was treated to a lively last half-hour in which Liverpool strove vainly for an equalizer.\n\nBurnley goalkeeper Sewell, deputizing for injured regular Dawson, made some vital saves \u2014 one, when the ball hit him in the face, completely by accident."
+    },
+    {
+      "headline": "Celtic back with a 'double'",
+      "body": "THEY LAUGHED at the little waif when he first took the field at Parkhead. But the jeers changed to cheers as soon as small, fragile-looking Patsy Gallagher touched the ball. The control, intelligence, skills and toughness of this seven-stone \"mighty atom\" made him an instant hero. And now, in his third season with Celtic, he has revitalized the forward line and finished as top scorer in the League, with 21 goals.\n\nIt needed a replay before Hibs were convincingly conquered in the Cup final. Celtic then finished their League programme six points ahead of Rangers, with 81 goals scored and only 14 conceded in their 38 matches. It is their third League and Cup \"double\", and they are still the only Scottish side to have achieved the feat."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "Preston have changed divisions again \u2014 relegated from Division One in 1912, promoted in 1913, they have now gone straight down again to Division Two.",
+        "Playing for Stockport against Fulham on 4 October, Norman Wood headed an own goal, gave away a penalty for hands from which the visitors scored, and then missed a penalty. Stockport lost 3-1."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Blackburn Rovers"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: George Elliott (Middlesbrough) 31"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Notts County"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Burnley 1  Liverpool 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Cowdenbeath"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Celtic 0  Hibernian 0"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Celtic 4  Hibernian 1"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Ireland, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "The captains are presented to the King.",
+      "near_headline": "King at Palace for Cup final"
+    },
+    {
+      "caption": "Freeman's shot beats Liverpool keeper Campbell for the only goal of the game.",
+      "near_headline": "King at Palace for Cup final"
+    }
+  ]
+}

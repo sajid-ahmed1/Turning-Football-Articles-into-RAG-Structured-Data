@@ -1,0 +1,104 @@
+{
+  "page_number": 23,
+  "era_label": "1906-07",
+  "articles": [
+    {
+      "headline": "Arsenal go top",
+      "body": "WOOLWICH Arsenal beat champions Liverpool 2-1 at Plumstead on 6 October to become the first southern club ever to top the First Division table. They were a goal down at half-time, but after the interval outside-left David Neave, who established his first-team place last season with seven goals in 18 games, opened his account for this term, scoring both of Arsenal's goals. Beaten only once so far this season, Arsenal now have 11 points out of a possible 14."
+    },
+    {
+      "headline": "Wales win the Championship",
+      "body": "THE ENGLAND-SCOTLAND dominance of the International Championship has been ended at last. When Scotland held England to a 1-1 draw at St James's Park, Newcastle, on 6 April, it meant that Wales had won the Championship outright, for the first time, with five points to England's four.\n\nThe international season began on 16 February, when England beat Ireland 1-0 at Goodison Park. A week later Wales also beat Ireland, 3-2 in Belfast. Then, for the third season running, Wales beat Scotland, 1-0 at Wrexham on 4 March.\n\nTwo weeks later they held England to a 1-1 draw at Craven Cottage, Fulham, thanks to a goal by inside-forward William \"Lot\" Jones of Manchester City, who also had scored against the Irish, and were assured of at least a share in the Championship. But they had to wait until the England-Scotland match on 4 April before they knew that they were outright winners.\n\nThe inspiration of Wales has, as usual, been right-winger Billy Meredith, now with Manchester United after moving across town from City last May. In the England match, he was making his 25th appearance in the red shirt of Wales.\n\nThe International Championship has now been contested 24 times, with England winning it outright on 10 occasions to Scotland's nine and now one by the Welsh. There have been three titles shared by England and Scotland, and in 1902-03 there was a triple tie between the \"Big Two\" and Ireland."
+    },
+    {
+      "headline": "Bristol's small wonder",
+      "body": "ARSENAL MIGHT have topped the League briefly early on, but newly promoted Bristol City came with a late run in Division One, winning their last four games to finish up in second place, three points behind Newcastle and three in front of Everton. This is the highest position yet achieved by a southern club.\n\nBristol's remarkable progress in their first season in the top echelon has in no small part been due to their centre-half Billy \"Fatty\" Wedlock. Standing only 5ft 4\u00bdin, he nevertheless dominates the middle of the field with his skills, and his lack of inches does not seem to affect his heading prowess. He has boundless energy, roaming the pitch in support of his forwards, yet his powers of recovery enable him to get back to his defensive duties whenever necessary. The Bristol-born pivot fully deserved to win his first cap this season, and played in all three of England's internationals.\n\nBristol City were founded as recently as 1894, and joined the Football League only six years ago. Progress indeed!"
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The Football League season opened, on 1 September, in searing heat, over 90\u00b0F in most of the country. This did not appear to bother Chelsea, who beat Glossop 9-2, with George Hilsdon scoring five goals on his debut. Chelsea went on to win 18 of their 19 home games, losing only to Nottingham Forest and earning promotion to Division One for the first time.",
+        "It hardly seemed worth the fare when Crystal Palace, languishing near the bottom of the Southern League, were drawn to play mighty Newcastle at St James's Park in the first round of the Cup. But they went up there and beat them 1-0.",
+        "In winning the League title for the second time in three years, Newcastle dropped only one point at home. This was in their last home match, but the point they earned from their goalless draw with Sheffield United was enough to clinch the title.",
+        "Celtic became the first club to do the Scottish League and Cup \"double\". They ran away with the Championship, their third consecutive title, finishing up seven points ahead of Dundee. They lost only twice and scored 80 goals in their 34 matches. They beat Rangers 3-0 at Ibrox in the quarter-finals of the Cup, but needed two replays in the semi-finals to get past Hibs, before beating Hearts in the final.",
+        "Arsenal faded after their brief spell at the top of the League, finishing seventh, but only one point behind third-placed Everton. They toured Europe in May, playing eight games in 16 days and winning seven of them \u2014 including 9-1 in Berlin and 9-0 in Budapest."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Newcastle United"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: Alec Young (Everton) 30"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Nottingham Forest"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Sheffield Wed 2  Everton 1"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: St Bernard's"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Celtic 3  Hearts 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Wales, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Twenty-two thousand fans and a dog see Arsenal beat Liverpool and go top of Division One.",
+      "near_headline": "Arsenal go top"
+    },
+    {
+      "caption": "Billy Wedlock, Bristol City.",
+      "near_headline": "Bristol's small wonder"
+    }
+  ]
+}

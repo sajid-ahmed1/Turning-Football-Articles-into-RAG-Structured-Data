@@ -1,0 +1,103 @@
+{
+  "page_number": 16,
+  "era_label": "1899-1900",
+  "articles": [
+    {
+      "headline": "Villa supreme",
+      "body": "SHEFFIELD UNITED, not surprisingly, failed to beat Burnley by eight goals at Turf Moor, so Aston Villa pip them by two points for the Championship. This is Villa's fifth title in seven seasons, during which they have also won the Cup twice. At the beginning of a new century they reign supreme.\n\nThree players shared in all seven of these successes. Captain and inside- or centre-forward John Devey played in 143 out of a possible 158 matches in the five Championship seasons, centre-half Jimmy Cowan one fewer, and outside-right Charlie Athersmith in 137.\n\nThe 1900 League triumph was hard fought. With two-thirds of the season gone, Sheffield United were unbeaten, two points ahead of Villa and with two games in hand. But Villa were the stronger finishers, suffering only one defeat in their last 13 matches and dropping only one point in their last six games. They finished their programme on 16 April, leaving Sheffield needing to win their remaining two matches \u2014 both away \u2014 by at least eight goals in aggregate. They beat Wolves 2\u20131, but they failed at the last to do the impossible at Burnley."
+    },
+    {
+      "headline": "Loughborough lurch out of League",
+      "body": "LOUGHBOROUGH TOWN, who have been clinging to League membership ever since they were elected to the Second Division in 1895, finally had to let go. Their position has steadily deteriorated \u2014 12th in 1896, 13th, 16th (bottom), 17th, and finally 18th and bottom in 1900.\n\nWith only eight points from 34 matches, one fewer than Darwen's dismal record last season, it is hardly surprising that they failed to gain re-election this time. They achieved but a single victory, 2\u20131 over Burton United in January, but lost all 17 of their away games. They gave away 100 goals, 74 of them in away matches, in which they scored only six \u2014 not as bad as Darwen's record, though. They also suffered some heavy defeats, the greatest being a 12\u20130 massacre by Woolwich Arsenal."
+    },
+    {
+      "headline": "Non-Leaguers 'Buryed'",
+      "body": "SOUTHAMPTON came to Crystal Palace with high hopes of becoming the first \"outsiders\" to win the FA Cup since the inception of the Football League. But Bury proved too much for them and ran out easy 4\u20130 winners.\n\nPerhaps it was the occasion that got to the non-Leaguers, although they had played on the ground in the semi-finals. They had also disposed of three First Division sides on their way to the final \u2014 Everton 3\u20130, Newcastle 4\u20131 and West Bromwich 2\u20131 \u2014 all at the Dell. Only fellow Southern Leaguers Millwall gave them any trouble, drawing their semi-final 0\u20130 before going down 3\u20130 in the replay at Reading.\n\nNearly 69,000 turned out on a blazing hot April day to watch the final. Southampton kicked off with the sun in their eyes, and found themselves three goals down within 23 minutes, two of them from centre-forward McLuckie. They came back into the game for spells in the second half, but never seriously challenged Bury's lead, and a fourth goal for the northerners 10 minutes from time was the final nail in their coffin."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "With 77 goals, Aston Villa are the leading scorers in Division One for the sixth season running.",
+        "Racehorse owner Lord Rosebery attended the Scotland-England match at Parkhead and somehow persuaded the Scottish FA to allow the team to play in his racing colours of primrose and pink. Whether this Derby-winning combination had any galvanizing effect on the players is a moot point, but the Scots won 4\u20131, aided by a hat-trick from centre-forward R.S. McColl, the last remaining amateur in the side and the only representative from Queen's Park.",
+        "Celtic retained the Scottish Cup, beating Queen's Park 4\u20133 in the final after losing a 3\u20131 half-time lead. They scored 25 goals in their six Cup matches, including a 4\u20130 win over Rangers in a semi-final replay.",
+        "Rangers ran away with the Scottish League Championship again, although this season they lost four points \u2014 three of them to Celtic."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Aston Villa"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: Bill Garratt (Aston Villa) 27"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Sheffield Wednesday"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Bury 4  Southampton 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Partick Thistle"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Celtic 4  Queen's Park 3"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Scotland, 6 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "John Devey, highly-successful captain of Aston Villa.",
+      "near_headline": "Villa supreme"
+    },
+    {
+      "caption": "A rare Southampton attack in the final against Bury.",
+      "near_headline": "Non-Leaguers 'Buryed'"
+    }
+  ]
+}

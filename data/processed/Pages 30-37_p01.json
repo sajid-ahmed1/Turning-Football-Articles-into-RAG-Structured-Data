@@ -1,0 +1,92 @@
+{
+  "page_number": 30,
+  "era_label": "1911-12",
+  "articles": [
+    {
+      "headline": "Battling Barnsley show Yorkshire grit",
+      "body": "BARNSLEY played siz goalless games in an extraordinary Cup campaign"
+    },
+    {
+      "headline": "Another Olympic triumph for England",
+      "body": ""
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Sunderland"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: David McLean (Sheffield Wednesday) 30"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Preston North End"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Aston Villa 1  Sunderland 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Ayr United"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Falkirk 2  Raith Rovers 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "England, 4 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Butler (Sunderland) foils Villa's Hampton in the Cup final.",
+      "near_headline": "Battle of the giants ends level"
+    }
+  ]
+}

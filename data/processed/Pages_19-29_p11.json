@@ -1,0 +1,109 @@
+{
+  "page_number": 29,
+  "era_label": "1910-11",
+  "articles": [
+    {
+      "headline": "New Cup stays in Bradford",
+      "body": "THE NEW TROPHY for the FA Cup was made in Bradford, and after the replayed Cup final at Old Trafford it is staying there. Bradford City beat Newcastle 1-0 to win their first major honour.\n\nFor Newcastle United it is the same old story. They reached the Cup final for the fifth time in seven years, a truly remarkable feat in itself. They were again unable to win at Crystal Palace, and after a poor match there, in which they sorely missed last year's scoring hero Albert Shepherd, it was expected that their scientific play and individual skills would prevail against the rugged Bradford defence in the replay.\n\nIn the event, however, it was the resolute Bradford rearguard that prevailed. Bolstered at centre-half by the outstanding Torrance, who had missed the first match, Bradford enjoyed another fine performance from full-backs Campbell and Taylor. A bad goalkeeping error by Lawrence, who had played in all his club's five finals, allowed Scottish international inside-forward Jimmy Speirs the chance to score a simple goal after 15 minutes, and Newcastle could find no answer."
+    },
+    {
+      "headline": "Dramatic finish to title race",
+      "body": "THREE DAYS after Bradford City won the Cup at Manchester United's new home, Old Trafford, the ground was the scene of a great United victory, 5-1 over Sunderland, which gave them their second League title in four years. Again they won with 52 points, and again it was Aston Villa who were runners-up, but this time by only one point instead of nine.\n\nManchester made a wonderful start to the season, with seven wins in their first eight matches. But it looked all over for them when Villa edged in front on goal average last Saturday by beating the Reds 4-2 at Villa Park in a bad-tempered match in which a player from each side was sent off in the closing minutes. Villa had a game in hand, but could only draw at Blackburn on Monday, setting up the last day for a dramatic finish. They crashed 3-1 to Liverpool at Anfield, and Manchester's resounding defeat of third-placed Sunderland won the day.\n\nUnited have triumphed with largely the same team that won the League in 1908 and the Cup a year later. New signing Enoch West led the scorers with 19 goals, although Alec Turnbull still made a valuable contribution with 18. Charlie Roberts was again an inspiring captain, and the incomparable Billy Meredith was still chewing his toothpick and teasing full-backs on the right wing."
+    },
+    {
+      "headline": "New order over the border",
+      "body": "CELTIC'S SUPREME reign in Scotland has finally come to a close. Admittedly they won the Cup \u2014 after a stuttering campaign \u2014 but fifth place in the League after winning it six times on the trot is evidence of a dramatic decline. Their defence has not been the problem \u2014 18 goals conceded is better than in any of those six Championship years. But their goalscoring has fallen from a peak of 86 in 1907-08 to a dismal 48 this season.\n\nDespite home draws in every round, Celtic struggled to reach the semi-finals of the Cup, particularly in the second round, when they scraped past non-League Galston 1-0. They beat Aberdeen by the same score in the semi-finals, and they needed a replay before they beat lowly Hamilton 2-1 in the final.\n\nRangers have taken full advantage of their rivals' fall from grace in the League, emerging four points clear of Aberdeen in the title race."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "Newcastle did not hold on to the FA Cup for long last year. The FA presented the trophy to Lord Kinnaird to mark his 21st year as president, and commissioned a new design for this season because the old one had been pirated for a minor competition in Manchester.",
+        "Twelve Scots played in this year's FA Cup final, eight of them for the winners, Bradford City. The attendance for the replay at Old Trafford was a midweek record 66,646."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Manchester United"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: Albert Shepherd (Newcastle United) 25"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: West Bromwich Albion"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Bradford City 0 Newcastle United 0"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Bradford City 1 Newcastle United 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Dumbarton"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Celtic 0 Hamilton Acad 0"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Celtic 2 Hamilton Acad 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "England, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Speirs scores the winning goal for Bradford City.",
+      "near_headline": "New Cup stays in Bradford"
+    },
+    {
+      "caption": "Manchester United with the League Championship trophy, won for the second time in four years.",
+      "near_headline": "Dramatic finish to title race"
+    }
+  ]
+}

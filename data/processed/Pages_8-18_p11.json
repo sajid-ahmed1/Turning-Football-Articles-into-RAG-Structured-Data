@@ -1,0 +1,103 @@
+{
+  "page_number": 18,
+  "era_label": "1901-02",
+  "articles": [
+    {
+      "headline": "Terrible disaster at Ibrox Park",
+      "body": "A COLLAPSE in the new stand at Ibrox Park, Glasgow, during an international match has caused 25 deaths, with hundreds more injured, many of them seriously. Most of the crowd were oblivious to the horrific scenes under the stand. The match was stopped, but first reports were of just a few injuries, and the authorities decided to continue the game to prevent panic. Only after the match was the full scale of this catastrophe revealed.\n\nThree Scottish clubs vied to stage the lucrative Scotland-England international: Celtic, Rangers and Queen's Park. Most recent internationals have been played at Celtic Park or Hampden Park, but Rangers \"won\" this time, largely because of the new West Stand constructed at a cost of \u00a320,000. It was a fatal decision.\n\nThe Ibrox Park stadium is said to hold 80,000, but there were more likely nearly 100,000 crammed in, such is the fanaticism of the Scots for the game. As the eastern terrace became full, latecomers made a dash for the new stand, constructed of wooden planking set on steel pylons. The game was only six minutes old when there was a sudden rending of timber as a vast hole appeared in one section of the terracing. The unfortunate spectators there just fell through the gap, 40 feet to the ground below and on top of each other. Seven rows of wooden planking had collapsed, leaving a gap 30 yards wide.\n\nThe result of the match, which was played without passion and more as an exhibition, was a 1-1 draw, but this will not count in the records. It has been determined to replay the fixture next month in England, when the proceeds will go to a fund set up for the bereaved and injured."
+    },
+    {
+      "headline": "Sunderland's Scots do it again",
+      "body": "WHILE NOT AS commanding as their \"Team of All the Talents\" of the mid-nineties, Sunderland have won their first League title for six years. And again they have done it by packing their side with Scots, regularly fielding a team with at least nine men from across the border.\n\nTwo players remained from their last title-winning team, Scottish internationals Ted Doig, their goalkeeper, and centre-forward Jimmy Millar. For both it was their fourth Championship medal. But Millar, who spent four seasons with Glasgow Rangers before returning to Sunderland in 1900, also has two League and two Cup medals from Scotland.\n\nOnly Everton have provided any kind of challenge to the new champions. But, with games in hand, Sunderland have kept their noses comfortably in front, and their 3-0 victory over Bury has clinched the title with 10 days of the season remaining.\n\nSunderland finished with 44 points to Everton's 41, with Newcastle United in third place on 37. West Bromwich topped Division Two with 55 points, a record."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "A maximum wage of \u00a34 per week was introduced in England.",
+        "The result of the Scotland-England game, scene of the Ibrox disaster, did not count towards the International Championship. The replay a month later at Villa Park ended in a 2-2 draw. These were the first matches in which both sides fielded all-professional teams.",
+        "The Cup final was contested by the previous two years' beaten finalists, Southampton and Sheffield United, but the Southern League club lost again. It was a second consecutive replayed Cup final running for Sheffield. This time they won 2-1, after a 1-1 draw. The celebrated amateur, C.B.Fry, played right-back for Southampton. The Crystal Palace provided seated accommodation for 12,000, with \"crowds of almost any size\" watching from the slopes. The gate for the 1902 final was 76,914, although only 33,068 turned up for the replay, also at Crystal Palace, a week later.",
+        "Scoring in Division One of the Football League reached a new low, averaging 2.75 goals per game."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Sunderland"
+            },
+            {
+              "year": null,
+              "detail": "Top scorers: James Settle (Everton), Fred Priest (Sheffield United) 18"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: West Bromwich Albion"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Sheffield United 1 Southampton 1"
+            },
+            {
+              "year": null,
+              "detail": "Replay: Sheffield Utd 2 Southampton 1"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Port Glasgow"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Hibernian 1 Celtic 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Scotland, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "The dead and dying are brought out from the collapsed Ibrox stand.",
+      "near_headline": "Terrible disaster at Ibrox Park"
+    },
+    {
+      "caption": "The gaping hole through which the unfortunate people fell.",
+      "near_headline": "Terrible disaster at Ibrox Park"
+    }
+  ]
+}

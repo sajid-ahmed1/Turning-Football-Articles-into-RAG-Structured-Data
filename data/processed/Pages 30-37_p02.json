@@ -1,0 +1,95 @@
+{
+  "page_number": 31,
+  "era_label": "1912-13",
+  "articles": [
+    {
+      "headline": "Battle of the giants ends level",
+      "body": "THE BATTLE of the giants has ended with honours even. Sunderland, a week after losing to Aston Villa in the Cup final, have beaten Bolton 3-1 to clinch the League Championship. Three days ago they went to Villa Park and earned a brave draw that put paid to Villa's title hopes. The Wednesday were still in with a chance, but now they have lost 5-1 at Everton the title is Sunderland's, whatever happens in the last games next week.\n\nWhat a battle it has been, with two teams both going for the League and Cup \"double\". Sunderland's League campaign has been quite extraordinary. They failed to win any of their first seven matches, managing only two draws and conceding 18 goals. A dip into the transfer market in October to bolster their defence transformed their season. Joe Butler, a reliable keeper from Glossop, and Charlie Gladwin, an inspirational right-back from Blackpool, shored up the holes at the back and enabled the right-wing \"triangle\" of Frank Cuggy (right-half), Charlie Buchan (inside-right) and Jackie Mordue (outside-right) to weave their intricate attacking patterns.\n\nSunderland stormed up the table with five straight wins. They lost a couple of away games, but they beat Villa 3-1 and Liverpool 7-0, with Buchan scoring five times. In 17 matches from 28 December, they have lost on only one occasion.\n\nIn the Cup, meanwhile, Villa charged through to the semi-finals with three 5-0 victories. Sunderland's progress was hardly less impressive, although they needed two replays to dispose of Newcastle in the quarter-finals. They also needed a replay in the semi-finals before beating Burnley 3-2, while Villa reached the final with a 1-0 victory over Oldham.\n\nThe final drew a record crowd of 120,081 to see a battle royal between the two Championship challengers. It was a thrilling, if bruising, match. A series of clashes between Villa centre-forward Harry Hampton and Sunderland centre-half Charlie Thomson could have had them both sent off. (Indeed, they and referee A. Adams were all suspended for a month by the FA, the players for their behaviour and the official for his leniency.)\n\nEarly on Villa were awarded a penalty \u2014 only the second in the history of the Cup final \u2014 but Charlie Wallace shot wide. Defences got on top, but when Villa keeper Sam Hardy had to go off for 20 minutes in the second half with an injury, Sunderland failed to capitalize on their chances. With Villa centre-half Jim Harrop wearing the keeper's jersey, Sunderland peppered away at goal and twice hit the upright. Hardy returned, and with 15 minutes to go, Wallace sent a corner-kick to the edge of the penalty box. Right-half Tom Barber met it with his head, and the Sunderland defence watched spellbound as the ball rolled into the corner of the net.\n\nThat was the only score, so Villa won the Cup for the fifth time, equalling the record of the Wanderers and Blackburn Rovers. But they could not emulate their own feat of League and Cup \"double\", achieved back in 1896-97, as the other \"giants\" Sunderland have gone on to win the battle for the League."
+    },
+    {
+      "headline": "Ten Irish heroes",
+      "body": "ENGLAND LOST to Ireland for the first time in an international, going down 2-1 in Belfast. The England side, described as \"the greatest ever sent across the Irish Sea\", was full of stars. Sunderland's Charlie Buchan, making his England debut, headed them in front after 10 minutes. And when, shortly afterwards, Ireland lost inside-left James McAuley of Huddersfield with a knee injury, only one result seemed possible.\n\nBut the 10 Irish heroes fought like tigers, and Sheffield United centre-forward Billy Gillespie scored twice with shots deflected by English defenders.\n\nAbout three minutes from time, the referee blew for a free-kick to Ireland. The crowd, thinking it was the final whistle, surged on to the field and carried their heroes off shoulder-high. There was no way that the referee was going to get the game restarted in those circumstances, and the amazing result stood."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "Despite England's disastrous start, losing to Ireland, they beat Wales and Scotland to win the International Championship.",
+        "Sunderland won the League Championship with a record number of points, 54, after gleaning only two from their first seven games.",
+        "Rangers completed a hat-trick of League titles in Scotland, but there was a new name on the Scottish Cup, Falkirk. Neither they nor runners-up Raith Rovers had reached the final before.",
+        "Morton of the Scottish Division One created a curious record \u2014 every player who appeared for them in the League scored, even the keeper, who converted a penalty kick."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Sunderland"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: David McLean (Sheffield Wednesday) 30"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Preston North End"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Aston Villa 1  Sunderland 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Ayr United"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Falkirk 2  Raith Rovers 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "England, 4 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Butler (Sunderland) foils Villa's Hampton in the Cup final.",
+      "near_headline": "Battle of the giants ends level"
+    }
+  ]
+}

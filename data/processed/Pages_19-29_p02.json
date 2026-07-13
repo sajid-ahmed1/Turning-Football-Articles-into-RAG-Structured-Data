@@ -1,0 +1,101 @@
+{
+  "page_number": 20,
+  "era_label": "1903-04",
+  "articles": [
+    {
+      "headline": "The mighty Quinn",
+      "body": "CELTIC'S young centre-forward Jimmy Quinn plundered a hat-trick in the Scottish Cup final against deadly rivals Rangers to give his side a dramatic 3-2 victory after the Cup-holders had built up a 2-0 lead. The new Hampden Park, opened on 31 October and staging its first Cup final, could not have had a better introduction. With solid earth terracing for the spectators, rather than the wooden steps and scaffolding that caused the Ibrox disaster, and much reduced admission prices, 65,000 turned up to see the \"show\".\nQuinn's success was a tri-umph for manager Willie Maley, who has patiently built up this exciting Celtic side despite the doubters and the criticism. His courageous policy of removing the old guard and, instead of buy-ing established players, finding and rearing junior talent, has paid off. Even the directors, however, were beginning to doubt his wis-dom in persevering with Quinn, a shy, unassuming lad whom he had nurtured from the juniors, mainly on the left wing. The breakthrough came in 1902, when Celtic beat Rangers 3-2 for the Glasgow Exhibition Trophy, Quinn scoring all three from the centre-forward position. Since then, he has gone from strength to strength, but the directors were still dubious when Maley put him in for the regular centre-forward Alec Bennett for the Cup final.\nCeltic were in for an early shock at Hampden, when Speedie twice penetrated their defence to put Rangers two up. But they fought back furiously, and Quinn burst through to pull one back and then hit an unstoppable shot for the equalizer before half-time.\nThe younger Celts continued to press in the second half with-out being able to find the net. Then, with 10 minutes to go, the mighty Quinn \u2014 all 5ft 8in of him \u2014 broke away again. He scythed his way through the Rangers defence, brushing aside tackles from those redoubtable backs Smith and Drummond, to fire the ball past Watson for the clincher. It had been a wonderful match, and this was a goal worthy of winning any Cup final."
+    },
+    {
+      "headline": "'Welsh Wizard' clinches it for City",
+      "body": "OUTSIDE-RIGHT and captain of Manchester City, Billy Meredith, scored the only goal of the game against Bolton Wanderers in the first all-Lancashire Cup final. There was just a suspicion of off-side as Meredith received the ball from his right-wing partner Livingstone, but the referee had no doubts. Meredith went on to round Bolton left-back Struthers before netting in the 23rd minute.\nManchester City, challenging leaders Wednesday for the League Championship, were only slight favourites against Second Division Bolton, who are renowned Cup fighters. They deserved their half-time lead, but Bolton pressed strongly for most of the second half, and would have improved their chances of victory had they shot more frequently and more effec-tively. On the other hand, Meredith, apart from scoring, did not live up to his glowing reputation as the finest winger in the land. Had he played to his usual brilliant form, City's win would surely have been more convincing."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "Relegated Liverpool scored 49 goals in Division One, one more than Wednesday, champions for the second year in succession. Wednesday scored only 14 away goals to Liverpool's 25.",
+        "Woolwich Arsenal won promotion from Division Two and will be the first southern side to play in the top division.",
+        "Sheffield FC, founded in 1857 and the oldest club in existence, won their first major honour, the FA Amateur Cup, which itself was founded in 1893.",
+        "The Scottish First Division was extended to 14 clubs, and Third Lanark won the title for the first time.",
+        "The managers of the winners of the FA Cup and Scottish Cup are brothers, Tom Maley of Manchester City and Willie Maley of Celtic.",
+        "A \"world governing body\" for foot-ball was formed on 21 May in Paris by representatives of Belgium, Denmark, France, Holland, Spain, Sweden and Switzerland. It is to be called the F\u00e9d\u00e9ration Internationale de Football Association."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Sheffield Wednesday"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: Steve Bloomer (Derby County) 20"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Preston North End"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Manchester City 1 Bolton Wanderers 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Third Lanark"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Hamilton Academical"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Celtic 3 Rangers 2"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "England, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "The 1904 Scottish Cup final at the new Hampden Park.",
+      "near_headline": "The mighty Quinn"
+    },
+    {
+      "caption": "Billy Meredith scores the winning goal in the FA Cup final at Crystal Palace.",
+      "near_headline": "'Welsh Wizard' clinches it for City"
+    }
+  ]
+}

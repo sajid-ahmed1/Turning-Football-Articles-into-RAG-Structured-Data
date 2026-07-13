@@ -1,0 +1,104 @@
+{
+  "page_number": 37,
+  "era_label": "1920-21",
+  "articles": [
+    {
+      "headline": "Spurs beat Wolves on quagmire of pitch",
+      "body": "NEWLY PROMOTED Tottenham beat Second Division Wolves 1-0 in the FA Cup final at Stamford Bridge in the most terrible conditions. Despite continuous rain and an increase in admission prices to keep the numbers down, a crowd of nearly 75,000 began streaming into the ground over four hours before the kick-off and spilled on to the pitch surrounds.\nThey paid record gate money of \u00a313,400, but because of the conditions the match turned out to be a poor spectacle. The pitch was a quagmire, enveloping the football skills of the Spurs stars \u2014 their captain and left-half Arthur Grimsdell, inside-right Jimmy Seed, and the left-wing pair of Bert Bliss and Jimmy Dimmock. It was the dogged persistence of Dimmock that won them the game eight minutes into the second half, rather than the artistry they have become known for.\nStopped in his tracks by Woodward, the opposing full-back, Dimmock regained the ball, dragged it through the mud into the penalty area, and hit a shot that skidded across the keeper into the far corner. It was not the most elegant of goals, but Spurs were worthy winners and have brought the Cup back south for the first time since they first won it 20 years ago.\nPeter McWilliam, their manager, is the first man to play in and then manage a cup-winning team. He was in the Newcastle side in 1910."
+    },
+    {
+      "headline": "Third division for League",
+      "body": "THE NEW LEAGUE season starts with 66 clubs, made up of three divisions of 22. An en bloc application from the Southern League's First Division to join the League was accepted, and the new Third Division is composed of those clubs with the exception of Cardiff. The Welsh club go straight into Division Two at the expense of Grimsby Town, who were demoted to the new Third Division. There will be automatic promotion and relegation of one club between Divisions Two and Three.\nLincoln City, who finished second from bottom of Division Two last season, were not re-elected. Their place in Division Two has been taken by Leeds United, the club that sprang up like a phoenix from the ashes of the disgraced Leeds City and who will operate from the same Elland Road ground."
+    },
+    {
+      "headline": "Burnley defeated at last",
+      "body": "BURNLEY'S RECORD League run without defeat has finally been broken. Last beaten way back on 4 September, 2-0 by Bradford City, they went 30 matches in the League without losing, 21 wins and nine draws. Now, on 26 March, they have lost 3-0 at Maine Road to their challengers for the Championship, Manchester City.\nWhat an extraordinary season this has been so far for Burnley, who started off with three straight defeats. Then on 6 September they beat Huddersfield 3-0, the start of the run that has given them 51 points and put them in a commanding position at the head of the First Division table. The only blemish in their season so far has been their 3-0 defeat at Second Division Hull in the third round of the Cup, a big shock in view of their 7-3 win at Leicester in the first round.\nThey have been particularly strong at home, where they have lost only their first match of the season, 4-1 to Bradford City. Their home triumphs have included 7-1 victories over Oldham and Aston Villa and 6-0 over Sheffield United. Centre-forward Joe Anderson and inside-right Bob Kelly have scored most of the goals, while Jerry Dawson has been as safe as always in goal, and centre-half Tom Boyle an inspirational skipper."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The Third Division got off to a good start with gates of 25,000 at Millwall and 20,000 at Portsmouth and Queen's Park Rangers on the first Saturday, while Swindon beat Luton 9-1. Crystal Palace, who lost 2-1 at Merthyr Town, eventually finished top.",
+        "After their record run was broken, Burnley won their next two games, including revenge over Manchester City by 2-1, and although they failed to win any of their last six matches, they ran out easy League winners by five points from Manchester City.",
+        "Cardiff, promoted at the first attempt, will play in the First Division next year \u2014 the first Welsh club to do so.",
+        "The biggest non-event of the season was Stockport's home game with Leicester on 7 May, the last day. Already relegated, and with their own ground under suspension, they had to play at Old Trafford, where a record low \"crowd\" of 13 on the vast terraces were entertained to a goalless draw.",
+        "The pendulum continues to swing Rangers' way in Scotland, where they amassed a record 76 points, with only one defeat (at home to Celtic), and won the title by 10 points from Celtic. Their Cup \"hoodoo\" continues, however. They lost 1-0 to Partick in the final, despite being odds-on favourites."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Burnley"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: Joe Smith (Bolton Wanderers) 38"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Birmingham City"
+            },
+            {
+              "year": null,
+              "detail": "Division 3: Crystal Palace"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Tottenham Hotspur 1  Wolveerhampton W 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: Hugh Ferguson (Motherwell) 43"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Partick Thistle 1  Rangers 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Scotland, 6 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Dimmock of Tottenham defies mud and defenders to score the winning goal.",
+      "near_headline": "Spurs beat Wolves on quagmire of pitch"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "page_number": 25,
+  "era_label": "1908-09",
+  "articles": [
+    {
+      "headline": "Newcastle 1 Sunderland 9",
+      "body": "YES, THE SCORELINE is correct. Believe it or not, England's top team \u2014 twice League champions and three times Cup-finalists in the last four years, and now challenging for the League title once more \u2014 have been beaten 9-1 at home by their neighbours. There was no inkling that such a shock was in store at half-time, with the score at 1-1. But in the space of 28 second-half minutes, Sunderland hammered eight goals past the hapless Magpies, the last five coming in eight minutes. Newcastle were just stunned by the onslaught. Sunderland have an excellent recent record at St James's Park, having won seven of their last 10 League games there. But nothing could have prepared even their wildest fans for the goal glut to come after the interval. Newcastle-born Billy Hogg added another three to his first-half goal, and George Holley also helped himself to three. With Everton beating champions Manchester United to go further ahead in the table, it remains to be seen whether Newcastle can recover from this extraordinary setback and keep up their challenge for the League title."
+    },
+    {
+      "headline": "England win Olympic soccer tournament",
+      "body": "BEATING DENMARK 2-0 in the final at the White City Stadium, the United Kingdom, represented by an England side chosen by the Football Association, won the gold medals in the London Olympic Games. All the competitors in the tournament were, of course, amateurs, England's best-known players being their captain, the Tottenham and England inside-forward Vivian Woodward, and the Rev. Kenneth Hunt, who won an FA Cup medal with Wolves last season. The six entrants to the competition included two teams from France. In the semi-finals, however, the French \"A\" side let in 17 goals, 10 of them scored by Sophus Nielsen. England, meanwhile, had accounted for Sweden 12-1, C.H.Purnell of Clapton scoring four, and Holland 4-0, all scored by Harry Stapley of Glossop. The final was a hard-fought match, with the Danes a little unlucky to lose to goals from centre-half F.W.Chapman (South Notts) and Woodward."
+    },
+    {
+      "headline": "Whisky fuels fire of Hampden riot and rules out Celtic 'double'",
+      "body": "THE 1909 SCOTTISH CUP has been withdrawn following the riot at Hampden Park after the replayed final between Celtic and Rangers. The action by the Scottish FA, readily agreed to by the clubs concerned, confirms the seriousness in which they regard the events, and puts paid to Celtic's chances of completing the Cup and League \"double\" for the third season running. The trouble started when the replay was drawn after 90 minutes. Many of the players and most of the crowd expected extra time. But the rules had been laid down beforehand and could not be changed, extra time being possible only for a second replay. Some of the crowd became unsettled and spilled on to the pitch. The police moved in, and the violence escalated into a full-blown riot, with fires started and an attempt to burn down the pay boxes using whisky as fuel. When the fire brigade arrived, they were attacked and their hoses cut. Hundreds of people were injured. Both clubs have shamefacedly agreed to help compensate Queen's Park for the extensive damage done to the ground."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The 1908 League champions Manchester United played Southern League winners Queen's Park Rangers for a new trophy in September, the Charity Shield, winning 4-0 after a 1-1 draw.",
+        "Leicester Fosse, already doomed to relegation, lost 12-0 at Nottingham Forest on 21 April, a record score for Division One.",
+        "Newcastle won the League despite their 9-1 home defeat by Sunderland. They won 10 out of their next 11 matches, and won at Roker Park, 3-0 in the fourth round of the Cup, after a 2-2 draw at St James's Park.",
+        "After the trauma of the Cup final riots, Celtic found themselves needing six points from four games in five days to win the League. Thanks to a couple of hat-tricks from Jimmy Quinn, they achieved their fifth Championship on the trot, a Scottish record."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Newcastle United"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: Bert Freeman (Everton) 38"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Bolton Wanderers"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Manchester United 1  Bristol City 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Abercorn"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Rangers 2  Celtic 2"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Rangers 1  Celtic 1 (Cup withheld)"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "England, 6 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "George Holley, who scored a hat-trick for Sunderland.",
+      "near_headline": "Newcastle 1 Sunderland 9"
+    },
+    {
+      "caption": "The United Kingdom team, with Hunt top left and Woodward seated centre.",
+      "near_headline": "England win Olympic soccer tournament"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "page_number": 17,
+  "era_label": "1900-01",
+  "articles": [
+    {
+      "headline": "Spurs win their first Cup",
+      "body": "THE 1901 CUP FINAL drew a record crowd of 110,820 to the Crystal Palace and produced the first draw for 15 years. In the replay Tottenham Hotspur beat Sheffield United 3-1 to become the first club from outside the League to win the Cup since the League started. Their hero was centre-forward Alex \"Sandy\" Brown, the first player to score in every round of the Cup. He got both of their goals in the first final, and scored again in the replay for a record 15 goals in one tournament.\n\nTottenham, who won the Southern League last season, are the first team to break the dominance in the Cup of the great northern and Midlands clubs. They were unlucky not to win the final at the first attempt, for the Sheffield equalizer was a dubious affair. The linesman gave a corner, but the referee, who was hardly in a position to see, decided the ball had crossed the line before being cleared, and awarded a goal.\n\nSheffield, with the 20-stone Willie Foulke in goal, took the lead after 40 minutes in the replay at Burnden Park, Bolton, when Needham put Priest through. But the Spurs, in front of a much smaller crowd of 20,470, came back strongly in the second half for a thoroughly deserved victory with goals by Cameron, Smith and \u2014 inevitably \u2014 the remarkable Brown."
+    },
+    {
+      "headline": "Liverpool at last",
+      "body": "AFTER NEARLY A DECADE of ups and downs between the divisions, Liverpool have finally won the League title. Their 1-0 victory over relegation-doomed West Bromwich at the Hawthorns was enough to put them two points clear of Sunderland and clinch the Championship.\n\nLiverpool made a bright start to the season, winning their first three games. But in-and-out form left them well adrift of Sunderland, and when they suffered their third defeat in four games, at Bolton in mid-February, there was no thought of the Championship. Then came the turning point. They went to Roker Park and beat Sunderland 1-0, the start of a 12-match unbeaten run that took them through the field to the title.\n\nEven so, it was a close-run thing. Sunderland finished their programme with a 2-0 victory at Newcastle, to take them two points clear. Liverpool beat Nottingham Forest 2-0 to draw level, but with a far inferior goal average. They needed just a draw in their last game, and West Bromwich bravely held them scoreless until Liverpool got a late goal to settle the issue.\n\nWith only 59 goals, Liverpool have nevertheless broken the First Division scoring dominance of Aston Villa, who finished well down the table with only 45. But their real strength has been in defence, with Scottish international centre-half Alec Raisbeck outstanding in the middle."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The scorer of England's first goal against Scotland in the drawn international at Crystal Palace was Blackburn (Blackburn) \u2014 Fred Blackburn of Blackburn Rovers, that is.",
+        "Celtic beat Rangers in the Scottish Cup for the third successive season, this time in the first round. But they failed to bring off a hat-trick of Cups, losing 4-3 in the final to Hearts. Like their opponents Queen's Park last year, they fought back to equalize after being 3-1 down, but Hearts scored a late winner. Rangers won their third League title running.",
+        "The bottom of Division One at the end of the 1900-01 season had a curious look to it \u2014 four of the last five clubs had formerly won either the Championship or the Cup or both. Sheffield United and the lately supreme Aston Villa stayed up. But both \"Proud\" Preston and West Bromwich were relegated to Division Two.",
+        "On 23 February, Scotland beat Ireland 11-0, their highest international score, but they drew their other two games and England won the Championship.",
+        "The Sheffield United keeper Billy \"Fatty\" Foulke, who lined up against Tottenham Hotspur in the 1901 Cup final, stood 6ft 2\u00bdin and weighed an amazing 20 stone."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Liverpool"
+            },
+            {
+              "year": "",
+              "detail": "Top scorer: Steve Bloomer (Derby County) 24"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Grimsby Town"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Tottenham Hotspur 2  Sheffield United 2"
+            },
+            {
+              "year": "",
+              "detail": "Replay: Tottenham H. 3  Sheffield United 1"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Rangers"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: St Bernard's"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Hearts 4  Celtic 3"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "England, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "United repel a Spurs attack in the replay.",
+      "near_headline": "Spurs win their first Cup"
+    },
+    {
+      "caption": "Brown scores for Spurs in the first match.",
+      "near_headline": "Spurs win their first Cup"
+    },
+    {
+      "caption": "Alec Raisbeck, outstanding for Liverpool and Scotland.",
+      "near_headline": "Liverpool at last"
+    }
+  ]
+}

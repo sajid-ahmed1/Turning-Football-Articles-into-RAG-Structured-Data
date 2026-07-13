@@ -1,0 +1,180 @@
+{
+  "page_number": 11,
+  "era_label": "THE 1880s",
+  "articles": [
+    {
+      "headline": "Joy for the Rovers",
+      "body": "BLACKBURN ROVERS celebrated their third successive Cup triumph, equalling the Wanderers' feat of the 1870s, when they beat West Bromwich Albion 2-0 at the Racecourse Ground, Derby, in the replayed 1886 final after the goalless draw at the Oval. They received a silver shield for their achievement.\nThe Rovers' record in the eighties has been one of remarkable accomplishment. When they reached their first Cup final in 1882, they had gone 35 games without defeat against some of the best sides in the land, including a 16-0 trouncing of Preston in North End's first professional fixture. Old Etonians beat them in the final, but Rovers came back in 1884 to take over the Cup mantle of their neighbours Blackburn Olympic, beating Queen's Park to take the trophy. They repeated their victory over the Scottish challengers the following year, and now they have \"scored a hat-trick\", with seven of their players appearing in all three of the finals."
+    },
+    {
+      "headline": "Bon Accord lambs to the slaughter",
+      "body": "ON 5 SEPTEMBER 1885, in the first round of the Scottish FA Cup, Arbroath beat Bon Accord 36-0, a record for any British first-class match. The visitors, playing in their working clothes and without a proper pair of football boots between them, had replaced their unfit keeper with a half-back who had never played in goal before.\nThe Arbroath goalkeeper was not called upon to touch the ball once, and winger John Petrie scored 13 goals \u2014 a record for an individual player. On the same day, Dundee Harp beat Aberdeen Rovers 35-0."
+    },
+    {
+      "headline": "Invincible Preston's twin triumphs",
+      "body": "PRESTON NORTH END have gone through the first League season, 1888-89, without losing a match and have become the first League champions. In addition, they have won the FA Cup without conceding a goal. They are indeed \"double\" champions.\nWith the emphasis on attack, Preston scored 74 goals in their 22 matches, and only at Accrington were they denied scoring. They finished 11 points ahead of runners-up Aston Villa, with 40 points out of the maximum 44. And they conceded only 15 goals.\nCentre-forward John Goodall was the brains of the side, with inside-right Jimmy Ross a prolific goalscorer. They were well supported by the Scottish half-back trio of Sandy Robertson, David Russell and John Graham. The keeper, Jimmy Trainer, known as the \"Prince of Goalkeepers\", is a Welshman. He joined Preston from Bolton only a few months after Preston had knocked 12 goals past him in one match!\nPreston eased their way through to the semi-finals of the FA Cup, where they met West Bromwich, who had beaten them in last year's final. This time Preston won 1-0. In the final they easily beat Wolves 3-0 in front of a record 22,000 crowd. They truly earned their nickname \"The Invincibles\"."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The Scotland-Ireland fixture in 1884 completed the six-match cycle amongst the four home countries, and the International Championship was born. Scotland won four of the eighties Championships outright and shared the title with England in 1886.",
+        "Professionalism was recognized in England in 1885. Blackburn Rovers left-half James Forrest, at 19, became the first professional to play for England against Scotland, despite Scottish protestations that both teams should be strictly amateur.",
+        "England won the International Championship for the first time in 1888 with a thumping 5-0 victory in Scotland, after beating both Wales and Ireland 5-1.",
+        "In 1887-88, Preston scored 51 goals in six FA Cup ties, including a Cup record 26-0 defeat of Hyde, before losing 2-1 to West Bromwich in the final.",
+        "Scottish Cup-winners Renton beat FA Cup-winners West Bromwich in 1888 in a match for the \"Championship of the World\".",
+        "The Football League was inaugurated on 17 April 1888 at the Royal Hotel, Manchester. It was the brainchild of a Scot, William McGregor, a director of the Aston Villa club. The 12 clubs forming the League, all from the Midlands or the North, were Accrington, Aston Villa, Blackburn Rovers, Bolton Wanderers, Burnley, Derby County, Everton, Notts County, Preston North End, Stoke, West Bromwich Albion and Wolverhampton Wanderers."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League Champions",
+          "rows": [
+            {
+              "year": "1888-89",
+              "detail": "Preston North End"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Finals",
+          "rows": [
+            {
+              "year": "1880",
+              "detail": "Clapham R. 1 Oxford University 0"
+            },
+            {
+              "year": "1881",
+              "detail": "Old Carthusians 3 Old Etonians 0"
+            },
+            {
+              "year": "1882",
+              "detail": "Old Etonians 1 Blackburn Rovers 0"
+            },
+            {
+              "year": "1883",
+              "detail": "Blackburn Olyp 2 Old Etonians 1 (after extra time)"
+            },
+            {
+              "year": "1884",
+              "detail": "Blackburn R. 2 Queen's Park 1"
+            },
+            {
+              "year": "1885",
+              "detail": "Blackburn R. 2 Queen's Park 0"
+            },
+            {
+              "year": "1886",
+              "detail": "Blackburn R. 0 WBA 0"
+            },
+            {
+              "year": "Replay",
+              "detail": "Blackburn R. 2 WBA 0"
+            },
+            {
+              "year": "1887",
+              "detail": "Aston Villa 2 WBA 0"
+            },
+            {
+              "year": "1888",
+              "detail": "WBA 2 Preston N. E. 1"
+            },
+            {
+              "year": "1889",
+              "detail": "Preston N. E. 3 Wolves 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Finals",
+          "rows": [
+            {
+              "year": "1880",
+              "detail": "Queen's Park 3 Thornlibank 0"
+            },
+            {
+              "year": "1881",
+              "detail": "Queen's Park 3 Dumbarton 1 (after 2-1 cancelled)"
+            },
+            {
+              "year": "1882",
+              "detail": "Queen's Park 2 Dumbarton 2"
+            },
+            {
+              "year": "Replay",
+              "detail": "Queen's Park 4 Dumbarton 1"
+            },
+            {
+              "year": "1883",
+              "detail": "Dumbarton 2 Vale of Leven 2"
+            },
+            {
+              "year": "Replay",
+              "detail": "Dumbarton 2 Vale of Leven 1"
+            },
+            {
+              "year": "1884",
+              "detail": "Queen's Park beat Vale of Leven on default"
+            },
+            {
+              "year": "1885",
+              "detail": "Renton 0 Vale of Leven 0"
+            },
+            {
+              "year": "Replay",
+              "detail": "Renton 3 Vale of Leven 1"
+            },
+            {
+              "year": "1886",
+              "detail": "Queen's Park 3 Renton 1"
+            },
+            {
+              "year": "1887",
+              "detail": "Hibernian 2 Dumbarton 1"
+            },
+            {
+              "year": "1888",
+              "detail": "Renton 6 Cambuslang 1"
+            },
+            {
+              "year": "1889",
+              "detail": "Third Lanark 2 Celtic 1 (after 3-0 cancelled)"
+            }
+          ]
+        },
+        {
+          "title": "International Firsts",
+          "rows": [
+            {
+              "year": "1882",
+              "detail": "Wales v Ireland (at Wrexham, 7-1)"
+            },
+            {
+              "year": "1882",
+              "detail": "Ireland v England (at Belfast, 0-13)"
+            },
+            {
+              "year": "1884",
+              "detail": "Ireland v Scotland (at Belfast, 0-5)"
+            },
+            {
+              "year": "1884",
+              "detail": "International Champ. (Scotland, 6 pts)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Blackburn Rovers, a 'hat-trick' of Cup wins with victories over Queen's Park (twice) and West Brom.",
+      "near_headline": "Joy for the Rovers"
+    }
+  ]
+}

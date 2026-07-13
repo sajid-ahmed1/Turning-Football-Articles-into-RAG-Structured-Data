@@ -1,0 +1,99 @@
+{
+  "page_number": 22,
+  "era_label": "1905-06",
+  "articles": [
+    {
+      "headline": "Promoted Liverpool win title",
+      "body": "LIVERPOOL have won the League Championship for the second time, although it needed a season in Division Two to sharpen up their goalscoring. After their relegation in 1904, they set the Second Division alight last season with 93 goals, 60 of them at home, where they were unbeaten.\n\nIt is the first time that a promoted side have won the title in the following year. Yet they made a poor start to their campaign, losing the first three games. Indeed, in their very first match, away to Arsenal, they not only went down 3-1, but they lost their speedy centre-forward Jack Parkinson with a broken wrist that kept him out of the game for several weeks. Although he did come back to score six goals in nine games, his injury enabled Liverpool to bring in Joe Hewitt, whose 22 League goals were an invaluable contribution.\n\nAnother success was goalkeeper Sam Hardy, bought from Chesterfield for \u00a3500, who replaced veteran Ted Doig early in the season. Still there from Liverpool's 1901 Championship team were left-back Billy Dunlop, centre-half Alec Raisbeck, outside-right Jack Cox and prolific centre-forward Alec Raybould.\n\nIt was not until late October that Liverpool asserted their authority, putting together nine wins and a draw in 10 matches. The only dropped point was at Preston, who in the end ran them closest for the title. But they won 2-1 at Deepdale at the end of March to give them some breathing space, and finished four points clear."
+    },
+    {
+      "headline": "Raisbeck is the rock on which England's forwards founder",
+      "body": "THE ENGLISH forwards found the commanding figure of centre-half Alec Raisbeck of Division One leaders Liverpool too much for them at Hampden Park, where they lost the international 2-1. Raisbeck, arguably the best centre-half in Britain, and his fellow \"Anglo-Scots\" Andy Aitken and Peter McWilliam, both of Newcastle, were dominant in the air. Scotland surely have never had such a fine half-back line.\n\nCrowds began converging on Hampden Park for hours before the start, on foot, in cabs and trolleys and from scores of special trains from all around the country. It was the first official 100,000 gate for an international, and although the match was not a classic, the Scots were delighted to see their team dominate the \"Saxon invaders\" until a late England goal produced a misleading scoreline.\n\nScotland failed to press home their superiority until five minutes before the interval, when Jim Howie, another Newcastle exile, crashed a fierce shot at James Ashcroft. The Arsenal keeper held the ball, but the force of it spun him round, and the referee judged it to have crossed the line. Howie added another, in the second half, after a fine run by outside-left Alec Smith. England's consolation was scored with a low free-kick by centre-forward Albert Shepherd, the only time he escaped Raisbeck's attentions all afternoon.\n\nThe win produced only a share in the International Championship for Scotland, who had lost to Wales, but it deprived England of the outright title."
+    },
+    {
+      "headline": "Everton make it a Merseyside double",
+      "body": "EVERTON BEAT Newcastle United in the FA Cup final to make sure that both of this season's major trophies go back to Liverpool. This is Everton's first Cup triumph, and they inflicted a second consecutive defeat in the final on poor Newcastle, this one by a single goal after 75 minutes scored by Sandy Young from a right-wing centre by Jack Sharp.\n\nThe Cup has been a harder grind this year, with the competition proper increased from five rounds to six (including the final). Everton won all their ties at the first attempt, including an exciting 4-3 win over Sheffield Wednesday in the quarter-finals and \u2014 the one that pleased their fans most \u2014 a 2-0 victory over neighbours and champions-elect Liverpool in the semi-finals.\n\nThe final itself was disappointing as a spectacle. Newcastle never played up to their known standards, with their much-vaunted half-back line of Gardner, Aitken and McWilliam having an off day. Everton deserved their win, but it was the case of the poorer side losing."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "Last season Liverpool put six goals past Chesterfield keeper Sam Hardy in one match. Yet they bought him, and he won a Championship medal with them.",
+        "Bristol City set two records when they won the Second Division title. Their 66 points is the highest total yet in either Division and they ran up 14 consecutive League wins.",
+        "England joined the F\u00e9d\u00e9ration Internationale de Football Association (FIFA) in 1905, and the FIFA Congress of 1906 in Berne elected Daniel Burley Woolfall of the Football Association as their new president.",
+        "The first international in South America took place, for the Lipton Cup, between Argentina and Uruguay, and was drawn."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Liverpool"
+            },
+            {
+              "year": "",
+              "detail": "Top scorers: Bullet Jones (Birmingham City), Albert Shepherd (Bolton Wanderers) 26"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Bristol City"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Everton 1 Newcastle United 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": "",
+              "detail": "Division 2: Leith Athletic"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": "",
+              "detail": "Hearts 1 Third Lanark 0"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": "",
+              "detail": "England, Scotland, 4 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Liverpool's Parkinson breaks a wrist and sees his effort go wide of the Arsenal goal.",
+      "near_headline": "Promoted Liverpool win title"
+    }
+  ]
+}
