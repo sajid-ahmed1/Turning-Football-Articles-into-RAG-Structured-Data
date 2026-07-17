@@ -1,4 +1,42 @@
 {
-  "error": "api_error",
-  "detail": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Output blocked by content filtering policy'}, 'request_id': 'req_011Ccxfirw5mpxnU17ngAcsE'}"
+  "page_number": 27,
+  "era_label": "FOOTBALL FEATURE",
+  "articles": [
+    {
+      "headline": "Villa men",
+      "body": "The most successful English side of the 1890s and early 1900s were Aston Villa, with six League titles and five Cup wins before the Great War. Archie Hunter, captain and centre-forward who led them to the first of their Cup victories in 1887, was idolized by the Villa crowd. John Devey, another inside- or centre-forward, took over as skipper from Hunter and was a key figure in Villa's success. So was Scottish international Jimmy Cowan, their attacking centre-half who was fast enough to win the Powderhall Handicap. Even faster, though, was outside-right Charlie Athersmith, whose combination with inside partner Devey was devastating. The versatile Jimmy Crabtree played in every defensive position, but Villa rated him their best ever wing-half. Later, before the Great War, Joe Bache and Harry Hampton shot them to further honours. Centre-forward Hampton, lethal in front of goal, scored a club record 215 in the League, while Bache, a scheming inside-forward, was always among the goals."
+    },
+    {
+      "headline": "Sunderland talents",
+      "body": "When Villa weren't winning the League in the 1890s, it was usually Sunderland, the \"Team of All the Talents\", packed with Scottish footballers. They were much feared, and famed for their goals — from that powerhouse of a centre-forward John Campbell and tricky inside-right James Miller. But the dominant personality of their side was right-half Hugh Wilson. His anticipation in defence was legendary, his throw from the touchline unsurpassed, and his shot as deadly as any forward's."
+    },
+    {
+      "headline": "Custodians",
+      "body": "Prominent between the posts were those literally \"great\" keepers Billy \"Fatty\" Foulke and Albert Iremonger. Foulke, an enormous man, was 15 stone when he joined Sheffield United in 1894, and five more when he played for Chelsea and Bradford City over 10 years later. Yet despite his bulk, he was remarkably agile and one of the finest keepers of his era, winning major honours with Sheffield and playing once for England. Iremonger, capped for England in the early 1900s and a stalwart of Notts County, stood 6ft 6in, but had difficulty getting down to low balls. The safest of all was Sam Hardy, of Liverpool and Villa, capped 21 times for England over 14 years."
+    },
+    {
+      "headline": "Combinations",
+      "body": "With full-backs Bob Crompton and Jesse Pennington, Hardy formed a matchless defensive combination for England in the pre-war years. Crompton, of Blackburn Rovers, amassed 41 caps and was an influential skipper, a man of great presence and the accepted leader of English football from 1902 to the outbreak of war. Pennington, of West Bromwich, was the perfect complement, always covering, relying on skill rather than brawn.\nMany players, like these, are remembered for their partnerships or combinations. Perhaps the most famous pre-war half-back combination was Duckworth-Roberts-Bell of the Manchester United League- and Cup-winning sides. The power of Dick Duckworth, thighs like tree-trunks, allied to the more delicate skills of Alec Bell on the left, flanked the commanding figure of the constructive Charlie Roberts in the middle. A dominating six-footer, Roberts was the most complete centre-half of his day, mixing power with perfect touch. His pioneering work with the Players' Union and his rebellious nature — his penchant for short shorts prompted the FA to rule in 1904 that \"footballers' knickers must cover the knee\" — did not perhaps endear him to the England selectors and he won only three caps."
+    },
+    {
+      "headline": "Celtic stars",
+      "body": "One of the outstanding attacking combinations was the Celtic inside-forward trio of Jimmy McMenemy, Jimmy Quinn and Peter Somers. Quinn, a charismatic character, the archetypal centre-forward, robust, courageous and a goalscorer supreme, was the idol of the Celtic crowd for years as he terrorized opposing defences, always, it seems, saving his best performances for the clashes with Rangers. McMenemy and Somers were perfect foils, subtle schemers, the former the \"Napoleon\" of the side, the latter a nimble conjurer. That whole Celtic side were stars, with six pre-war League wins on the trot and averaging a Cup win every other year."
+    }
+  ],
+  "sidebars": [],
+  "score_tables": [],
+  "captions": [
+    {
+      "caption": "Ernest \"Nudger\" Needham, England's left-half, was a polished performer, the \"Prince of Half-backs\". Never known to shirk a tackle, he was a key figure in Sheffield United's side from 1891 for 22 years, inspiring them to two Cup wins and a League title.",
+      "near_headline": "Villa men"
+    },
+    {
+      "caption": "Hugh Wilson led Sunderland's \"Team of All the Talents\".",
+      "near_headline": "Sunderland talents"
+    },
+    {
+      "caption": "\"Fatty\" Foulke towards the end of his career, flanked by Chelsea team-mates.",
+      "near_headline": "Custodians"
+    }
+  ]
 }

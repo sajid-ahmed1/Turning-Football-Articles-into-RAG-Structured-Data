@@ -1,4 +1,99 @@
 {
-  "error": "api_error",
-  "detail": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Output blocked by content filtering policy'}, 'request_id': 'req_011Ccxfdm3jMBw2mcv7mHmpK'}"
+  "page_number": 33,
+  "era_label": "1914-15",
+  "articles": [
+    {
+      "headline": "A change of uniform",
+      "body": "THE DECISION to continue with the League and Cup programme while the country was engaged in war had been a controversial one. Both the English and Scottish authorities were motivated by the desire to provide \"an antidote to the war\", and in August, when Britain declared war on Germany, few people expected hostilities to last more than a few months, anyway. But as the war dragged on, and news came back of terrible casualties at the front, the football authorities began to view the situation with growing concern. The season was allowed to finish, although the fixtures played out with little enthusiasm. It was understandably difficult for the players to concentrate on football when their fellow men were fighting — and dying — in the trenches. As soon as the season was over, there was a rush to change their football strip for uniforms of the armed forces."
+    },
+    {
+      "headline": "The Khaki Cup final",
+      "body": "WITH THE WAR in progress since August, the Cup final was a very low-key affair. It was held at Old Trafford in wet, gloomy conditions, with thousands of servicemen in uniform among the near 50,000 crowd, many of them bearing signs of injuries sustained at the front. The outcome was an easy 3-0 win for Sheffield United over a Chelsea side whose forwards never managed to reproduce the form that got them to the final. Chelsea's defence, on the other hand, had nothing to reproach themselves for, and held their opponents to a single goal until seven minutes from the end. For Sheffield, their captain and left-half George Utley was outstanding, just as he was for Barnsley three years ago. In a poignant speech to the crowd after presenting the trophy and medals to the players, Lord Derby said that the clubs and their supporters had \"seen the Cup played for, and it was now the duty of everyone to join with each other and play a sterner game for England\"."
+    },
+    {
+      "headline": "The man who wouldn't go",
+      "body": "IN AN UNPRECEDENTED incident at Middlesbrough on Easter Monday, Oldham's left-back Billy Cook refused to go when ordered off by the referee. So the referee himself left the field, and the match ended half an hour early. Oldham had arrived at Ayresome Park full of confidence. They were challenging for the First Division title, in fourth position but only two points behind leaders Manchester City. But as the game progressed, their frustration built up. Not only did they find themselves three down in 20 minutes, but they felt aggrieved at some of the decisions that were going against them, including a penalty appeal that had been turned down. Then, 10 minutes after the interval, the referee gave Middlesbrough a penalty for a Cook foul on Carr. Tinsley scored from the spot to complete his hat-trick. Shortly afterwards, Cook again fouled Carr and the referee stopped the game and sent him off — or at least he tried to. The Oldham left-back seemed reluctant to go, and his teammates crowded round the referee. The harassed official, Mr H. Smith of Nottingham, then gave Cook a minute to leave the field. When he still stood his ground, Mr Smith, after looking at his watch, walked off, with the players of both sides following. The spectators could hardly believe their eyes."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "The result of Oldham's game at Middlesbrough, abandoned by the referee with the score 4-1 against them, was allowed to stand. Billy Cook, the player who refused to leave the field when sent off, was suspended for a year. Oldham, severely reprimanded and fined £350, finished runners-up to champions Everton, just a point behind. The title had been theirs for the taking, but they lost their last two matches, both at home.",
+        "A debate in Parliament about shells failing to explode in battle — the implication being that munitions workers had possibly not been concentrating on their work — led to an FA decree that no games were to be played near munitions factories during working hours. As a result, the second-round Cup replay at Lincoln between Bradford City and Norwich was played behind closed doors.",
+        "There was a three-way tie in Scotland's Division Two, necessitating three play-off matches. Cowdenbeath won both theirs to finish top, with Leith second and St Bernard's third. But none of them won promotion, as only the top division played during the war.",
+        "League champions Everton owed their success largely to their results away from home, where they won 11 times and conceded just 18 goals in 19 games. Only bottom club Spurs won fewer than Everton's eight at home. Everton's winning total, 46 points, was the lowest since the First Division was increased to 20 clubs, and only six points separated them from West Bromwich Albion in 11th place."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Everton"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: Bobby Parker (Everton) 35"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Derby County"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Sheffield United 3 Chelsea 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Cowdenbeath"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup",
+          "rows": [
+            {
+              "year": null,
+              "detail": "No competition"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "No competition"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Buchan in Sunderland strip and (right) Grenadier Guards uniform.",
+      "near_headline": "A change of uniform"
+    }
+  ]
 }

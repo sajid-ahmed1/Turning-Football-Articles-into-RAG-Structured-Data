@@ -1,4 +1,104 @@
 {
-  "error": "api_error",
-  "detail": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Output blocked by content filtering policy'}, 'request_id': 'req_011CcxfhhCRF4QzVCx6WivW2'}"
+  "page_number": 21,
+  "era_label": "1904-05",
+  "articles": [
+    {
+      "headline": "Villa spoil Newcastle's 'double' dreams",
+      "body": "NEWCASTLE'S visions of bringing off the Cup and League \"double\" were shattered by Aston Villa in the FA Cup final. The Villa, without a trophy to their name for five years, are nevertheless still a powerful side, as they soon demonstrated to Newcastle's discomfort at Crystal Palace. Spencer, Leake and Bache all played for England a fortnight ago, and in centre-forward Harry Hampton, six days from his 20th birthday, they have a brave, no-nonsense spearhead who has already built up a reputation for himself back in Birmingham, where he is more popular than local politician Joseph Chamberlain. The Villa's brand new style of attacking football, in which the dynamic Hampton swings long balls out to the wings and then does the damage when they are returned, was soon in evidence. After only three minutes he gave them the lead, latching on to a loose ball after Newcastle failed to clear a cross from left-winger Hall, and rifling it inside the right-hand post. Villa dominated for most of the match, and Hampton clinched it when he pounced after Lawrence had dropped another cross from Hall. It was their fourth FA Cup win, only one short of the record held jointly by Blackburn and Wanderers."
+    },
+    {
+      "headline": "Newcastle make up for Cup defeat",
+      "body": "NEWCASTLE'S victory at Middlesbrough on the last day of the season has earned them the Championship, their first major trophy. Overcoming the disappointment of losing to Aston Villa in the Cup final, they produced a powerful finish and have beaten Everton by a point. Packed with Scottish talent, the \"Geordies\" have succeeded with the type of close-passing game favoured north of the border, built on triangular movements involving inside-forward, winger and wing-half. Their all-Scottish half-back line of Alex Gardner, Andy Aitken and Peter McWilliam has been the backbone of the side, while up front their centre-forward, bustling Bill Appleyard, and right-wing Jack Rutherford, already capped against Scotland at 20, have provided the punch. A series of seven wins in eight games — their only defeat coming at Blackburn on 1 April, when they sportingly released five of their players for the England-Scotland international (four of them played, all Scots) — set them up for their exciting finish. But as they were losing to Villa in the Cup, Everton were winning their League match and going three points ahead of them and Manchester City. Newcastle had a game in hand, however; although they lost at home 3-1 to Sunderland, they ended up needing to win their last two matches, both away, to take the title. The first match was at the Wednesday, the outgoing champions whom they had thrashed 6-2 earlier in the season. And despite finding themselves a goal down with only 10 minutes left, they bravely fought back, and goals from Orr, Howie and McWilliam gave them a precious 3-1 victory. Then came the 3-0 defeat of Middlesbrough at Ayresome Park — the match that earned Newcastle the title in style."
+    }
+  ],
+  "sidebars": [
+    {
+      "title": "FOOTBALL FOCUS",
+      "bullet_points": [
+        "On 5 December, Woolwich Arsenal beat a visiting side of French \"Internationals\" 26-1.",
+        "Wales's 3-1 victory at Wrexham was their first ever over the Scots. It was the 30th match between the two countries and Wales had conceded 120 goals.",
+        "The first £1,000 transfer fee was paid by Middlesbrough to Sunderland for England international inside-right Alf Common in February.",
+        "Everton were unlucky to finish as runners-up in the League. They lost at Arsenal 2-1 in their penultimate match, a replay of a game abandoned earlier in the season through fog, with just a few minutes to go. At the time they were leading 3-1.",
+        "Rangers made a gallant effort to bring off the first ever Scottish Cup and League \"double\". They lost the Cup final after a replay, and then lost the League title in a play-off, after finishing level with Celtic on points. On the English system of goal average, Rangers would have been champions, with a goal record of 83-28 to Celtic's 68-31."
+      ]
+    }
+  ],
+  "score_tables": [
+    {
+      "section_title": "FINAL SCORE",
+      "sub_tables": [
+        {
+          "title": "Football League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Newcastle United"
+            },
+            {
+              "year": null,
+              "detail": "Top scorer: Arthur Brown (Sheffield United) 23"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Liverpool"
+            }
+          ]
+        },
+        {
+          "title": "FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Aston Villa 2 Newcastle United 0"
+            }
+          ]
+        },
+        {
+          "title": "Scottish League",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Division 1: Celtic"
+            },
+            {
+              "year": null,
+              "detail": "Division 2: Clyde"
+            }
+          ]
+        },
+        {
+          "title": "Scottish FA Cup Final",
+          "rows": [
+            {
+              "year": null,
+              "detail": "Third Lanark 0 Rangers 0"
+            },
+            {
+              "year": null,
+              "detail": "Replay: Third Lanark 3 Rangers 1"
+            }
+          ]
+        },
+        {
+          "title": "International Championship",
+          "rows": [
+            {
+              "year": null,
+              "detail": "England, 5 pts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "caption": "Harry Hampton (white shorts, centre) fires in Villa's first goal in the Cup final.",
+      "near_headline": "Villa spoil Newcastle's 'double' dreams"
+    },
+    {
+      "caption": "Alf Common — the subject of a record transfer.",
+      "near_headline": "Villa spoil Newcastle's 'double' dreams"
+    }
+  ]
 }
