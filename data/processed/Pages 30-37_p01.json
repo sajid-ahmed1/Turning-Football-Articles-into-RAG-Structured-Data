@@ -4,18 +4,22 @@
   "articles": [
     {
       "headline": "Battling Barnsley show Yorkshire grit",
-      "body": "BARNSLEY played six goalless games in an extraordinary Cup campaign"
+      "body": "BARNSLEY played six goalless games in an extraordinary Cup campaign that saw them reach the final for the second time in three years, a record for a Second Division club. This time they emerged victorious, beating West Bromwich 1-0 after extra time in the Cup final replay. Their saga is a story of attrition rather than glamour, their triumph down to stamina and heroic defending. They played 12 matches, of which three went to extra time, and conceded only four goals. The first final was a dull affair for the spectators, with brilliant defence dominating. The speed and tackling of Barnsley's, with right-back Dicky Downs in his element, smothered Albion's attacks before they got too near goal. And despite Barnsley's poor attack, it was the Albion's goal that had the luckier escapes. Both sides performed better in the replay, with Barnsley's wing-halves Glendinning and Utley to the fore. But the match seemed to be heading the same way, when Barnsley suddenly broke away with two minutes of extra time to go. Utley broke up an Albion attack on the left before hitting a cross-field pass to inside-right Harry Tufnell, standing on the half-way line. Showing remarkable stamina after two hours of solid effort, the Barnsley forward made for the Albion goal, swerving past the formidable challenge of England left-back Jesse Pennington and taking the ball on another 30 yards before shooting past the advancing keeper. It was a glorious goal to win the match and, for Barnsley, a fitting climax to an epic Cup journey."
     },
     {
       "headline": "Another Olympic triumph for England",
-      "body": ""
+      "body": "ENGLAND represented the United Kingdom again and retained their Olympic title in Stockholm. And again it was Denmark who provided the strongest opposition, but England beat them more convincingly in the final this time, by four goals to two. The tournament took place between 29 June and 5 July, and it was so hot that buckets of water were placed by the touchlines so that players could refresh themselves during the game. Out of 14 original entrants, all from Europe, France and Belgium were late withdrawals and Bohemia could not be accepted because they were not members of FIFA. Six of the 11 teams had to play a preliminary round, and then in the first round proper both England and Denmark enjoyed 7-0 victories, Harold Walden scoring five of England's goals against the Hungarians. England coasted through their semi-final against Finland, winning 4-0 and ostentatiously hitting a penalty over the cross-bar when they considered the award too harsh. Denmark also scored four in their semi-final, while conceding a single goal to Holland, who gave them a good match. England gained a well-deserved win in the final, although Denmark were unlucky to lose Buchwald owing to a sprained wrist with the score 2-1. England went in at half-time with a 4-1 lead. The Danes, with Nils Middleboe moving from defence to centre-forward, pressed hard in the second half, scoring again, but never managed a serious threat to England's supremacy."
     }
   ],
   "sidebars": [
     {
       "title": "FOOTBALL FOCUS",
       "bullet_points": [
-        
+        "In the first round of the FA Cup, Wolves were held to a 0-0 draw at Watford and won the replay 10-0",
+        "After a third drawn Cup final in a row, the FA determined that extra time would in future be played in the first match if level after 90 minutes.",
+        "Rangers retained the Scottish League title, finishing six points clear of Celtic, who retained the Cup.",
+        "Blackburn Rovers, five times Cup-winners, won their first League title, beating runners-up Everton by three points. Their total of 49 points is the lowest since Division One was increased to 20 teams in 1905.",
+        "In a consolation tournament staged for teams eliminated in the first two rounds of the Olympic football tournament, Germany beat Russia 16-0."
       ]
     }
   ],
@@ -28,15 +32,15 @@
           "rows": [
             {
               "year": null,
-              "detail": "Division 1: Sunderland"
+              "detail": "Division 1: Blackburn Rovers"
             },
             {
               "year": null,
-              "detail": "Top scorer: David McLean (Sheffield Wednesday) 30"
+              "detail": "Top scorers: Harry Hampton (Aston Villa), George Holley (Sunderland), Dave McLean (Sheffield Wednesday) 25"
             },
             {
               "year": null,
-              "detail": "Division 2: Preston North End"
+              "detail": "Division 2: Derby County"
             }
           ]
         },
@@ -45,7 +49,11 @@
           "rows": [
             {
               "year": null,
-              "detail": "Aston Villa 1  Sunderland 0"
+              "detail": "Barnsley 0 WBA 0"
+            },
+            {
+              "year": null,
+              "detail": "Replay: Barnsley 1 WBA 0 (after extra time)"
             }
           ]
         },
@@ -67,7 +75,7 @@
           "rows": [
             {
               "year": null,
-              "detail": "Falkirk 2  Raith Rovers 0"
+              "detail": "Celtic 2 Clyde 0"
             }
           ]
         },
@@ -76,7 +84,7 @@
           "rows": [
             {
               "year": null,
-              "detail": "England, 4 pts"
+              "detail": "England, Scotland 5 pts"
             }
           ]
         }
@@ -85,8 +93,12 @@
   ],
   "captions": [
     {
-      "caption": "Butler (Sunderland) foils Villa's Hampton in the Cup final.",
-      "near_headline": "Battle of the giants ends level"
+      "caption": "Harry Tufnell — scored a solo winner for Barnsley.",
+      "near_headline": "Battling Barnsley show Yorkshire grit"
+    },
+    {
+      "caption": "Danish keeper Hansen in action against England in Stockholm.",
+      "near_headline": "Another Olympic triumph for England"
     }
   ]
 }
